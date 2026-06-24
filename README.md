@@ -1,16 +1,15 @@
-# [Nome do Seu Site]
+# [ToUDo]
 
-![Tela inicial do site](img/home.jpg)
-
-[Insira aqui uma frase resumindo o objetivo do site. Exemplo: Plataforma web para exibição de portfólio, blog interativo sobre tecnologia e venda de produtos digitais.]
+[Site para organização de tarefas em modelo To do List.]
 
 Projeto desenvolvido para:
-- [Nome da Disciplina / Finalidade, ex: Projeto de Interface Web - 2º Ano Técnico]
-- [Seu Nome / Nome do Professor, ex: Prof. Thiago Guimarães Tavares]
+- [Construção de páginas web / Finalidade: Projeto de Interface Web - 2º Ano Técnico em Informática para Internet]
+- [Pedro Franco Pires & Miguel Gonçalves Garcia / Prof. Thiago Guimarães Tavares]
 
 ## Sobre o projeto
 
-![Design do site](img/design.png)
+<img width="770" height="779" alt="image" src="https://github.com/user-attachments/assets/48cac3dd-8079-47b3-99dd-0b7f2e2d5b7d" />
+
 
 O processo de desenvolvimento do layout e da estrutura do site seguiu o seguinte fluxo de ferramentas:
 
